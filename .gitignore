@@ -6,7 +6,14 @@ bin-release/
 
 # Other files and folders
 .settings/
-
+./example-helloworld1/package-lock.json
+./example-helloworld/package-lock.json
+./example-helloworld1/node_modules
+./example-helloworld/node_modules
+./example-helloworld1/dist
+./example-helloworld/dist
+./example-helloworld1/.gitignore
+./example-helloworld/.gitignore
 # Executables
 *.swf
 *.air
